@@ -29,4 +29,3 @@ dependency-reduced-pom.xml
 *.versionsBackup
 *.perm
 flyway.properties
-_book/
